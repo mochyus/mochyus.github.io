@@ -1,0 +1,13 @@
+/* navbar */
+
+div.navbar-nav a {
+    color: white;
+    margin: 0 10px;
+}
+
+div.navbar-nav a:hover {
+    background-color: darkcyan;
+    text-decoration: none;
+    transform: scale(1.2);
+    transition: 1s;
+}
