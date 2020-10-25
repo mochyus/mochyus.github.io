@@ -1,6 +1,6 @@
 body {
     margin-top: 70px;
-    height: 900px;
+    height: 1400px;
 }
 
 
@@ -46,5 +46,5 @@ div.carousel-caption h2 {
 
 .card.text-center a:hover {
     transform: scale(1.1);
-    transition: 0.3s;
+    transition: 0.2s;
 }
