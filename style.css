@@ -48,3 +48,10 @@ div.carousel-caption h2 {
     transform: scale(1.1);
     transition: 0.2s;
 }
+
+
+/* Section (About Us) */
+
+section.about {
+    height: 750px;
+}
