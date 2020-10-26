@@ -1,6 +1,5 @@
 body {
     margin-top: 70px;
-    height: 1400px;
 }
 
 
@@ -54,4 +53,25 @@ div.carousel-caption h2 {
 
 section.about {
     height: 750px;
+}
+
+
+/* Section (Contact Us) */
+
+section.contact {
+    height: 800px;
+}
+
+.col-sm-4 img {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 80%;
+    height: 260px;
+}
+
+
+/* Footer */
+
+i.fab {
+    font-size: 30px;
 }
